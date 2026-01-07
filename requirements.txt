@@ -6,3 +6,4 @@ ipykernel
 langchain-ollama
 langchain-core
 pydantic
+numpy 
