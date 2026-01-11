@@ -8,3 +8,4 @@ langchain-core
 pydantic
 numpy 
 streamlit
+langgraph-checkpoint-sqlite
