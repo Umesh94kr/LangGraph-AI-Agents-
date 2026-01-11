@@ -7,3 +7,4 @@ langchain-ollama
 langchain-core
 pydantic
 numpy 
+streamlit
