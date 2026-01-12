@@ -9,3 +9,5 @@ pydantic
 numpy 
 streamlit
 langgraph-checkpoint-sqlite
+langchain_community
+ddgs
