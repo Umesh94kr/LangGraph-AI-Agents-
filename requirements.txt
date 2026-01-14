@@ -11,3 +11,9 @@ streamlit
 langgraph-checkpoint-sqlite
 langchain_community
 ddgs
+langchain_huggingface
+sentence_transformers
+langchain_text_splitters
+langchain_chroma
+chromadb
+pypdf
