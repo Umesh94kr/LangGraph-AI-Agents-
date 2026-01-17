@@ -7,31 +7,32 @@ The notebooks are organized as a **progressive learning path**, starting from ba
 ---
 
 ## 📂 Repository / Notebook Structure
-Workflows/
-│
-├── Connection_sqlite/
-│   └── SQLite connection & persistence experiments
-│
-├── RAG_as_tool/
-│   └── Using RAG as a callable tool inside LangGraph
-│
-├── 1_sequential_workflow.ipynb
-├── 2_simple_workflow_llm.ipynb
-├── 3_prompt_chaining.ipynb
-├── 4_parallel_workflow.ipynb
-├── 5_parallel_workflow_doc_evaluation.ipynb
-├── 6_conditional_workflow_quadratic.ipynb
-├── 7_conditional_workflow_custom_edges.ipynb
-├── 8_iterative_workflow1.ipynb
-├── 9_chatbot_using_langgraph.ipynb
-├── 10_persistence_in_langgraph.ipynb
-├── 11_streaming_in_langgraph.ipynb
-├── 13_tools_calling.ipynb
-├── 14_multiple_tool_calling.ipynb
-├── 16_human_in_the_loop.ipynb
-├── 17_complex_human_in_the_loop.ipynb
-└── 18_subgraph.ipynb
-
+    ```
+    Workflows/
+    │
+    ├── Connection_sqlite/
+    │   └── SQLite connection & persistence experiments
+    │
+    ├── RAG_as_tool/
+    │   └── Using RAG as a callable tool inside LangGraph
+    │
+    ├── 1_sequential_workflow.ipynb
+    ├── 2_simple_workflow_llm.ipynb
+    ├── 3_prompt_chaining.ipynb
+    ├── 4_parallel_workflow.ipynb
+    ├── 5_parallel_workflow_doc_evaluation.ipynb
+    ├── 6_conditional_workflow_quadratic.ipynb
+    ├── 7_conditional_workflow_custom_edges.ipynb
+    ├── 8_iterative_workflow1.ipynb
+    ├── 9_chatbot_using_langgraph.ipynb
+    ├── 10_persistence_in_langgraph.ipynb
+    ├── 11_streaming_in_langgraph.ipynb
+    ├── 13_tools_calling.ipynb
+    ├── 14_multiple_tool_calling.ipynb
+    ├── 16_human_in_the_loop.ipynb
+    ├── 17_complex_human_in_the_loop.ipynb
+    └── 18_subgraph.ipynb
+    ```
 ---
 
 ## 🧩 Notebook Walkthrough
