@@ -8,13 +8,13 @@ The notebooks are organized as a **progressive learning path**, starting from ba
 
 ## 📂 Repository / Notebook Structure
 Workflows/
-
+│
 ├── Connection_sqlite/
-│ └── SQLite connection & persistence experiments
-
+│   └── SQLite connection & persistence experiments
+│
 ├── RAG_as_tool/
-│ └── Using RAG as a callable tool inside LangGraph
-
+│   └── Using RAG as a callable tool inside LangGraph
+│
 ├── 1_sequential_workflow.ipynb
 ├── 2_simple_workflow_llm.ipynb
 ├── 3_prompt_chaining.ipynb
@@ -30,8 +30,7 @@ Workflows/
 ├── 14_multiple_tool_calling.ipynb
 ├── 16_human_in_the_loop.ipynb
 ├── 17_complex_human_in_the_loop.ipynb
-├── 18_subgraph.ipynb
-
+└── 18_subgraph.ipynb
 
 ---
 
